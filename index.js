@@ -28,7 +28,7 @@ const REDDIT_POST_REF = '/r/PublicFreakout/comments/ii3hg7/trump_doll_put_in_the
     let count = 0;
     console.log(links);
 
-   /* async function bajar_archivo(link) { 
+    async function bajar_archivo(link) { 
       
         console.log(link);
       
@@ -60,6 +60,6 @@ const REDDIT_POST_REF = '/r/PublicFreakout/comments/ii3hg7/trump_doll_put_in_the
     }
     bajar_archivo(links[count]);
   
-  */
+  
 })();
 
